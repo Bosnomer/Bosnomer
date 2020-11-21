@@ -1,6 +1,356 @@
 ### Hi there 👋
 
+<!DOCTYPE html>
+<html lang="en">
 
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Resume - Nikhil Kesarkar</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
+    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <link href="vendor/devicon-master/devicon.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/resume.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">Resume - Nikhil</span>
+        <span class="d-none d-lg-block">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/PhotoToUpload.jpg" alt="">
+        </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#certifications">Certifications</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container-fluid p-0">
+
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+        <div class="my-auto">
+          <h1 class="mb-0">Nikhil
+            <span class="text-primary">Kesarkar</span>
+          </h1>
+          <div class="subheading mb-5">Mumbai, India · (+91) 9167643419 ·
+            <a href="mailto:nikhilkesarkar47@gmail.com">nikhilkesarkar47@gmail.com</a>
+          </div>
+          <p class="mb-5">My Objective is to work in a meaningful and challenging position that enables me to develop myself as a professional and permits scope for advancement.<br>
+                          I've been working with various programming languages in my curriculum such as C, JAVA, Python, JavaScript, Ruby etc.<br>
+                          I'm much more interested in working in an environment where it is all about data. I've been doing Statistics, Advanced EXCEL, SQL etc where there is almost data everywhere.<br>
+                          Simply interested to work in fields like analyst or data scientist.
+                          Just want to seek an oppurtunity to apply my knowledge wherever it is possible.<br>
+                          I've worked as an Intern in HPCL and gained a quite good experience while working with a team.<br>
+
+                          "When any data is given to you, draw insights not faults !" </p>
+          <ul class="list-inline list-social-icons mb-0">
+            <li class="list-inline-item">
+              <a href="https://www.linkedin.com/in/nikhilkesarkar1998/">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://github.com/Bosnomer">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://www.facebook.com/nikhil.bosnomer/">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://www.instagram.com/nikhillihkin_/">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
+        <div class="my-auto">
+          <h2 class="mb-5">Education</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">NMIMS University, Mumbai</h3>
+              <div class="subheading mb-3">Master of Technology(Pursuing)</div>
+              <ul class="fa-ul mb-0">
+                <li><i class="fa-li fa fa-check"></i>
+                  Data Science</li>
+              </ul>
+              <p><u>Relevant Coursework</u>: Basic of Marketing and Supply Chain, Finance and Advance Finance, Advance Statistics, Machine Learning, Programming Analytics, AI, Deep Learning, Object oriented Programming, Big Data, RDBMS, and Business Visualizations.</p>
+              <p></p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">August 2020 - May 2022</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">University of Mumbai</h3>
+              <div class="subheading mb-3">Bachelor of Engineering</div>
+              <ul class="fa-ul mb-0">
+                <li><i class="fa-li fa fa-check"></i>
+                  Computer Engineering</li>
+              </ul>
+              <p><u>Relevant Coursework</u>: Sequence of Applied Mathematics, Discrete Mathematics, Object Oriented Programming, Data Structures, RDBMS, Machine Learning and Communications Skills.</p>
+              <p>CGPI: 8.55/10</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">August 2016 - August 2020</span>
+            </div>
+          </div>
+
+        </div>
+      </section>
+      
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+        <div class="my-auto">
+          <h2 class="mb-5">Experience</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Student Intern, Backend Developer</h3>
+              <div class="subheading mb-3">Hindustan Petroleum Corp. Ltd.</div>
+              <p>Learnt how to connect frontend with backend using Django as well as PHP.<br>
+              Created a UI for user where he/she can query details regarding various factors.<br>
+              Learnt various SQL statements for selecting records that are needed.</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">June 2019 - July 2019</span>
+            </div>
+          </div>
+        </div>
+
+      </section>
+      
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
+        <div class="my-auto">
+          <h2 class="mb-5">Projects</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Covid-19 Live Data Analysis</h3>
+              <div>This is analysis for Live COVID-19 data of India. There are various models used to predict the cases that might occur in future and some data visualization in python.</div>
+              <p></p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">May 2020 - June 2020</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Automatic Lip Reading: Classification of Words and Phrases using Convolutional Neural Network</h3>
+              <div>This is a simple but interesting lip reading project. Convolutional neural network, Machine Learning, Image processing, etc techniques are used here. The project predicts word or phrase out of 10 words and 10 phrases. The dataset used here is MIRACL-VC1 which has sequence images of 15 speakers uttering 10 words and 10 phrases. In short, the model predicts amongst 20 objects.</div>
+              <p></p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">August 2019 - February 2020</span>
+            </div>
+          </div>
+          
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Detection of Roads from Satellite images using image processing</h3>
+              <div>Roads were detected from satellite images in matlab. The project includes converting rgb to grayscale, removing noise and detecting edges using sobel edge detection.</div>
+              <p></p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">September 2019 - October 2019</span>
+            </div>
+          </div>
+          
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Youtube Data Analysis using Hadoop MapReduce</h3>
+              <div>The Big data of Youtube was analyzed using MapReduce to give Top 5 categories and Top 10 Video Ratings from the huge data.</div>
+              <p></p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">September 2019 - October 2019</span>
+            </div>
+          </div>
+          
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Wine Quality Detection using Machine learning</h3>
+              <div>Using Artificial Neural Networks, we proposed a model in which we identify the quality of wine. Input is amount of various contents along with their quantity present in wine and predicted the quality of wine.</div>
+              <p></p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">February 2019 - April 2019</span>
+            </div>
+          </div>
+          
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Fingerprint Based Door Unlock System using Arduino UNO</h3>
+              <div>Based on the fingerprints, we can easily unlock the solenoid lock using the fingerprint scanner. Upto 200 fingerprints can be stored into database of scanner. The scanner uses Arduino to control all the commands such as storing fingerprints, removing fingerprints, etc.</div>
+              <p></p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">September 2018 - November 2018</span>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+        <div class="my-auto">
+          <h2 class="mb-5">Skills</h2>
+
+          <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+          <ul class="list-inline list-icons">
+            <li class="list-inline-item">
+              <i class="devicon-python-plain-wordmark"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicon-c-plain"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicon-mysql-plain-wordmark"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicon-postgresql-plain-wordmark"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicon-github-plain"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicon-ubuntu-plain-wordmark"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-html5"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-css3"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-javascript"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicon-ruby-plain-wordmark"></i>
+            </li>
+          </ul>
+
+          <div class="subheading mb-3">Analytics &amp; Frameworks</div>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Statistics</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              R</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              SAS</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              EXCEL</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Tableau</li>
+              <li>
+              <i class="fa-li fa fa-check"></i>
+              Pandas, Numpy, &amp; TensorFlow</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="certifications">
+        <div class="my-auto">
+          <h2 class="mb-5">Certifications</h2>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              SAS Programming 1: Essentials (SAS)</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Managing Big Data with MySQL (Coursera)</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Inferential Statistical Analysis with Python (Coursera)</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Master SQL for Data Science (Udemy)</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Python for Data Science and AI (Coursera)</li>
+          </ul>
+        </div>
+      </section>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/resume.min.js"></script>
+
+  </body>
+
+</html>
 <!--
 **Bosnomer/Bosnomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
