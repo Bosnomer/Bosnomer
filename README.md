@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--### Hi there 👋
-**GurvirSingh/GurvirSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bosnomer/Bosnomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Hey there, feel free to use this as a reference to create your own cool profile description --> 
 
-<h2 align="center"> <img src="https://media.giphy.com/media/970Sr8vpwEbXG/giphy.gif" width="50"> <br/> Hey there, I am <a href="">Gurvir Singh Bhogal</a>! </h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/970Sr8vpwEbXG/giphy.gif" width="50"> <br/> Hey there, I am <a href="">Nikhil Kesarlar</a>! </h2>
 
 <p align="center">
 <!--   <img src="https://media.giphy.com/media/1SB7mUWLS03mOPzlaw/giphy.gif" width="100"> -->
