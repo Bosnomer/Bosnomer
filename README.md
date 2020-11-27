@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Linkedin-400-blue?style=for-the-badge&logo=Linkedin">
   </a>
  <a></a>
-  <a href="https://www.instagram.com/bhogalgurveer/">
+  <a href="https://www.instagram.com/nikhillihkin_/">
     <img src="https://img.shields.io/badge/Instagram-747-pink?style=for-the-badge&logo=Instagram">
   </a>
 </p>
@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> Some statistics  
 <p align="center">
-<a href="https://github.com/Bosnomer/github-readme-stats">
+<a href="https://github.com/Bosnomer">
   <img src="https://github-readme-stats.vercel.app/api?username=Bosnomer&show_icons=true&theme=radical" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Bosnomer/convoychat">
+<a href="https://github.com/Bosnomer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosnomer&theme=radical&hide=blade&card_width=445&layout=compact" />
 </a>
   </p>
