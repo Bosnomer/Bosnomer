@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- Hey there, feel free to use this as a reference to create your own cool profile description --> 
 
-<h2 align="center"><br/> Hey there, I am <a href="">Nikhil Kesarlar</a>! </h2>
+<h2 align="center"><br/> Hey there, I am <a href="https://github.com/Bosnomer">Nikhil Kesarkar</a>! </h2>
 
 <p align="center">
   <em>Graduate Student at <a href="https://mu.ac.in/">University of Mumbai</a></em>
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Bosnomer">
-    <img src="https://img.shields.io/github/followers/GurvirSingh?color=000000&label=GitHub&logo=github&logoColor=ffffff&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/Bosnomer?color=000000&label=GitHub&logo=github&logoColor=ffffff&style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/nikhilkesarkar1998/">
-    <img src="https://img.shields.io/badge/Linkedin-268-blue?style=for-the-badge&logo=Linkedin">
+    <img src="https://img.shields.io/badge/Linkedin-400-blue?style=for-the-badge&logo=Linkedin">
   </a>
  <a></a>
   <a href="https://www.instagram.com/bhogalgurveer/">
