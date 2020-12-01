@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Bosnomer">
-    <img src="https://img.shields.io/github/followers/Bosnomer?color=000000&label=GitHub&logo=github&logoColor=ffffff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github">
   </a>
   <a href="https://www.linkedin.com/in/nikhilkesarkar1998/">
-    <img src="https://img.shields.io/badge/Linkedin-400-blue?style=for-the-badge&logo=Linkedin">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin">
   </a>
  <a></a>
   <a href="https://www.instagram.com/nikhillihkin_/">
-    <img src="https://img.shields.io/badge/Instagram-747-pink?style=for-the-badge&logo=Instagram">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram">
   </a>
 </p>
     
