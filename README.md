@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <em>Pursuing Post Graduation at <a href="https://www.nmims.edu/">NMIMS University</a></em>
+  <em>Post Graduation at <a href="https://www.nmims.edu/">NMIMS University</a></em>
 </p>
 
 <p align="center">
